@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 👯 Estou procurando colaborar em projetos Web
 - 📫 Como entrar em contato comigo: Minhas redes estão ao lado esquerdo
 - ⚡ Curiosidade: Minha maior inspiração para desenvolver é um bom Lo-fi com um café ouvindo o barulho da chuva.
+- :monocle_face: Pretendo adicionar mais alguns projetos no meu perfil que estão em outros locais.
 
 ## Ferramentas e Tecnologias
 
