@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou aprendendo conceito SOLID em Angular 13+
 - 👯 Estou procurando colaborar em projetos Web
 - 📫 Como entrar em contato comigo: Minhas redes estão ao lado esquerdo
-- ⚡ Curiosidade: Cara que Universo Louco
+- ⚡ Curiosidade: Minha maior inspiração para desenvolver é um bom Lo-fi com um café ouvindo o barulho da chuva.
 
 ## Ferramentas e Tecnologias
 
