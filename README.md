@@ -1,7 +1,6 @@
 # Olá, me chamo Lucas, mas pode me chamar de Anonyox se preferir !
 ## Bem vindo ao meu perfil  👋
 
-Here are some ideas to get you started:
 
 - 🔭 Atualmente estou trabalhando em Catanduva, São Paulo
 - 🌱 Atualmente estou aprendendo conceito SOLID em Angular 13+
