@@ -1,4 +1,4 @@
-# Olá, me chamo Lucas, mas pode me chamar de Anonyox se preferir !
+# Olá, me chamo Lucas, mas pode me chamar de Anonyox ou Zuck se preferir !
 ## Bem vindo ao meu perfil  👋
 
 
